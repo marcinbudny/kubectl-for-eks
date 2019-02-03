@@ -1,0 +1,1 @@
+Docker image with kubectl and aws-iam-authenticator
